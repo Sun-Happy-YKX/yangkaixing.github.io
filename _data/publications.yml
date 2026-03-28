@@ -1,0 +1,61 @@
+# Add one item per publication.
+# To add a new paper later:
+# 1. Copy an existing item below.
+# 2. Update the metadata fields.
+# 3. Put the preview image in /images/publications/ and reference it with a leading slash.
+# 4. `authors` can contain simple HTML such as <strong>...</strong>.
+# The image badge is rendered from `venue` + `year`.
+
+- title: "Personalized Dance Synthesis Based on Physical and Cognitive Intensities"
+  authors: "<strong>Xulong Tang</strong>, Eun Yeo, Ruiyu Mao, Xiaohu Guo, Rawan Alghofaili"
+  venue: "IEEE VR"
+  year: 2026
+  image: "/images/publications/IEEE VR 2026.png"
+  paper_url:
+  project_url: "https://xulongt.github.io/ARDance26/"
+  code_url:
+
+- title: "TokenDance: Token-to-Token Music-to-Dance Generation with Bidirectional Mamba"
+  authors: "Ziyue Yang, Kaixing Yang, <strong>Xulong Tang</strong>"
+  venue: "CVPR Workshop"
+  year: 2026
+  image: "/images/publications/CVPRW 2026.png"
+  paper_url:
+  project_url:
+  code_url:
+
+- title: "MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation"
+  authors: "Kaixing Yang&#42;, <strong>Xulong Tang</strong>&#42;, Ziqiao Peng, Yuxuan Hu, Jun He, Hongyan Liu"
+  venue: "NeurIPS"
+  year: 2025
+  image: "/images/publications/NeurIPS 2025.png"
+  paper_url: "https://arxiv.org/abs/2505.17543"
+  project_url:
+  code_url: "https://github.com/XulongT/MEGADance"
+
+- title: "CoheDancers: Interactive Group Dance Generation via Music-Driven Coherence Decomposition"
+  authors: "Kaixing Yang&#42;, <strong>Xulong Tang</strong>&#42;, Haoyu Wu, Qinliang Xue, Biao Qin, Hongyan Liu, Zhaoxin Fan"
+  venue: "ACM MM"
+  year: 2025
+  image: "/images/publications/ACM MM 2025.png"
+  paper_url: "https://arxiv.org/abs/2412.19123"
+  project_url:
+  code_url: "https://github.com/XulongT/CoheDancers"
+
+- title: "CoDancers: Music-Driven Coherent Group Dance Generation with Choreographic Unit"
+  authors: "Kaixing Yang&#42;, <strong>Xulong Tang</strong>&#42;, Ran Diao, Hongyan Liu, Jun He, Zhaoxin Fan"
+  venue: "ICMR"
+  year: 2024
+  image: "/images/publications/ICMR 2024 1.png"
+  paper_url: "https://dl.acm.org/doi/abs/10.1145/3652583.3657998"
+  project_url:
+  code_url: "https://github.com/XulongT/CoDancers"
+
+- title: "BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval"
+  authors: "Kaixing Yang, Xukun Zhou, <strong>Xulong Tang</strong>, Ran Diao, Hongyan Liu, Jun He, Zhaoxin Fan"
+  venue: "ICMR"
+  year: 2024
+  image: "/images/publications/ICMR 2024 2.png"
+  paper_url: "https://dl.acm.org/doi/abs/10.1145/3652583.3658045"
+  project_url:
+  code_url: "https://github.com/XulongT/BeatDance"

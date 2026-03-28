@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="motionTitle motionDesc">
+  <title id="motionTitle">Publication placeholder for motion generation papers</title>
+  <desc id="motionDesc">Abstract preview artwork with charts and motion silhouettes.</desc>
+  <defs>
+    <linearGradient id="motionBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f3f7fb"/>
+      <stop offset="100%" stop-color="#dce8f7"/>
+    </linearGradient>
+    <linearGradient id="motionPanel" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#163a70"/>
+      <stop offset="100%" stop-color="#3267b1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#motionBg)"/>
+  <rect x="72" y="76" width="1056" height="748" rx="28" fill="#ffffff" opacity="0.92"/>
+  <rect x="132" y="136" width="388" height="244" rx="22" fill="url(#motionPanel)"/>
+  <rect x="572" y="158" width="484" height="26" rx="13" fill="#b9cde7"/>
+  <rect x="572" y="208" width="420" height="18" rx="9" fill="#d4e1f1"/>
+  <rect x="572" y="244" width="376" height="18" rx="9" fill="#d4e1f1"/>
+  <rect x="572" y="280" width="332" height="18" rx="9" fill="#d4e1f1"/>
+  <rect x="132" y="432" width="924" height="282" rx="22" fill="#edf3fa"/>
+  <path d="M210 650 C290 520 360 500 440 590 S590 720 680 604 820 470 970 596" fill="none" stroke="#1f4d8c" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="284" cy="520" r="24" fill="#163a70"/>
+  <circle cx="452" cy="594" r="20" fill="#4877b7"/>
+  <circle cx="690" cy="604" r="22" fill="#163a70"/>
+  <circle cx="952" cy="596" r="18" fill="#4877b7"/>
+  <text x="160" y="214" fill="#ffffff" font-family="Trebuchet MS, Helvetica, sans-serif" font-size="46" font-weight="700">Motion Preview</text>
+  <text x="160" y="270" fill="#dbe7f8" font-family="Trebuchet MS, Helvetica, sans-serif" font-size="30">Replace with your paper teaser image</text>
+  <text x="160" y="760" fill="#5f748f" font-family="Trebuchet MS, Helvetica, sans-serif" font-size="28">Suggested path: /images/publications/your-paper-teaser.png</text>
+</svg>

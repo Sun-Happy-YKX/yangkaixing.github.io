@@ -37,64 +37,23 @@ I have used Unity to create a VR educational game for teaching children about th
 I have also contributed to the development of an unreleased third-person survival shooter game using Unreal Engine and C++, where I was responsible for gameplay and user interface.
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 One paper was conditionally accepted at SIGGRAPH 2026.
+- *2026.03*: &nbsp;🎉🎉 One paper was accepted at CVPR Workshop 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper was accepted at IEEE VR 2026.
 - *2025.09*: &nbsp;🎉🎉 One paper was accepted at NeurIPS 2025.
 - *2025.07*: &nbsp;🎉🎉 One paper was accepted at ACM Multimedia 2025.
 - *2024.06*: &nbsp;🎉🎉 Two papers were accepted at ICMR 2024.
 - *2024.01*: &nbsp;🎉🎉 Started my PhD at The University of Texas at Dallas.
 
+# 📝 Publications
 
-# 📝 Publications 
+\* denotes equal contribution.
 
-\* denotes equal contribution
-
-**IEEE VR 2026**
-
-*Personalized Dance Synthesis Based on Physical and Cognitive Intensities*
-
-[[Project Page](https://xulongt.github.io/ARDance26/)]
-
-**Xulong Tang**, Eun Yeo, Ruiyu Mao, Xiaohu Guo, Rawan Alghofaili
-
-
-**NeurIPS 2025**
-
-*MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation*
-
-[[PDF](https://arxiv.org/abs/2505.17543)]
-[[CODE](https://github.com/XulongT/MEGADance)]
-
-Kaixing Yang\*, **Xulong Tang**\*, Ziqiao Peng, Yuxuan Hu, Jun He, Hongyan Liu
-
-
-**ACM MM 2025**
-
-*CoheDancers: Interactive Group Dance Generation via Music-Driven Coherence Decomposition*
-
-[[PDF](https://arxiv.org/abs/2412.19123)]
-[[CODE](https://github.com/XulongT/CoheDancers)]
-
-Kaixing Yang\*, **Xulong Tang**\*, Haoyu Wu, Qinliang Xue, Biao Qin, Hongyan Liu, Zhaoxin Fan
-
-
-**ICMR 2024**
-
-*CoDancers: Music-Driven Coherent Group Dance Generation with Choreographic Unit*
-
-[[PDF](https://dl.acm.org/doi/abs/10.1145/3652583.3657998)]
-[[CODE](https://github.com/XulongT/CoDancers)]
-
-Kaixing Yang\*, **Xulong Tang**\*, Ran Diao, Hongyan Liu, Jun He, Zhaoxin Fan
-
-
-**ICMR 2024**
-
-*BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval*
-
-[[PDF](https://dl.acm.org/doi/abs/10.1145/3652583.3658045)]
-[[CODE](https://github.com/XulongT/BeatDance)]
-
-Kaixing Yang, Xukun Zhou, **Xulong Tang**, Ran Diao, Hongyan Liu, Jun He, Zhaoxin Fan
+{% comment %}
+Maintain publications in /_data/publications.yml.
+This section is rendered by /_includes/publications.html.
+{% endcomment %}
+{% include publications.html %}
 
 # 📖 Education
 - *2024.01 - present*, PhD in Computer Science, The University of Texas at Dallas, Richardson, Texas
@@ -105,6 +64,7 @@ Kaixing Yang, Xukun Zhou, **Xulong Tang**, Ran Diao, Hongyan Liu, Jun He, Zhaoxi
 
 **Reviewer**
 - *CVPR* &nbsp; (2025–2026)
+- *NeurIPS* &nbsp; (2026)
 - *ECCV* &nbsp; (2026)
 - *IEEE Transactions on Computers* &nbsp; (2024–2025)
 - *IEEE Virtual Reality* &nbsp; (2024–2025)
