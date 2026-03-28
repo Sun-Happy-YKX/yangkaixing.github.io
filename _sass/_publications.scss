@@ -1,0 +1,164 @@
+/* ==========================================================================
+   Publications
+   ========================================================================== */
+
+.publications-section {
+  margin-top: 0.5rem;
+
+  .paper-group + .paper-group {
+    margin-top: 1.5rem;
+  }
+
+  .paper-group-title {
+    margin: 0 0 0.35rem;
+    padding-bottom: 0;
+    border-bottom: 0;
+    font-size: $type-size-4;
+    color: $darker-gray;
+    letter-spacing: 0.01em;
+  }
+
+  .paper-box {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    align-items: flex-start;
+    padding: 2rem 0;
+    border-bottom: 1px solid $border-color;
+  }
+
+  .paper-box-image {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .paper-thumb {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .badge {
+    position: absolute;
+    top: 0.85rem;
+    left: 0.85rem;
+    z-index: 1;
+    padding: 0.28rem 0.7rem;
+    border-radius: 999px;
+    color: #fff;
+    background-color: #163a70;
+    font-size: 0.78rem;
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.14);
+  }
+
+  .paper-box-image img {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 10px;
+    background-color: #f4f7fb;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.35);
+  }
+
+  .paper-box-text {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .paper-box-title {
+    margin: 0 0 0.45rem;
+    font-size: 1.14em;
+    line-height: 1.35;
+  }
+
+  .paper-box-title a {
+    text-decoration: none;
+  }
+
+  .paper-box-title a:hover {
+    text-decoration: underline;
+  }
+
+  .paper-box-authors,
+  .paper-box-meta,
+  .paper-box-description {
+    margin: 0 0 0.7rem;
+  }
+
+  .paper-box-authors {
+    color: $darker-gray;
+  }
+
+  .paper-box-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    font-size: 0.95em;
+    color: $gray;
+    letter-spacing: 0.01em;
+  }
+
+  .paper-box-venue {
+    font-weight: 600;
+    color: $dark-gray;
+  }
+
+  .paper-box-links {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 0 0.55rem;
+    font-size: 0.96em;
+  }
+
+  .paper-box-links a {
+    text-decoration: none;
+  }
+
+  .paper-box-links a:hover {
+    text-decoration: underline;
+  }
+
+  .paper-box-links a + a::before {
+    content: "/";
+    margin: 0 0.45rem;
+    color: $gray;
+    text-decoration: none;
+  }
+
+  .paper-box-description {
+    color: $dark-gray;
+  }
+
+  .paper-highlights {
+    margin: 0.15rem 0 0;
+    padding-left: 1.15rem;
+    font-size: 0.96em;
+  }
+
+  .paper-highlights li + li {
+    margin-top: 0.25rem;
+  }
+
+  @include breakpoint($medium) {
+    .paper-box {
+      flex-direction: row;
+      gap: 1.75rem;
+    }
+
+    .paper-box-image {
+      flex: 0 1 38%;
+      max-width: 400px;
+      justify-content: flex-start;
+    }
+
+    .paper-box-text {
+      flex: 1 1 62%;
+    }
+  }
+}
