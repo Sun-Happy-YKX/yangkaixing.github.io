@@ -23,11 +23,11 @@ I am a fourth-year PhD student at Renmin University of China (RUC). My research 
 <span class='anchor' id='education'></span>
 # 📖 Education
 - *2022.09 - present*, PhD in Data Science and Engineering, Renmin University of China
-- *2018.09 - 2022.06*, Undergraduate, Nankai University
+- *2018.09 - 2022.06*, Undergraduate in Software Engineering, Nankai University
 
 <span class='anchor' id='internships'></span>
 # 💻 Internships
-- *2022.10 - 2024.01*, Algorithm Intern (3D Digital Human), PSYCHE.AI, Beijing, China
+- *2022.10 - 2024.01*, Algorithm Intern (3D Digital Human), PSYCHE Tech Inc, Beijing, China
 - *2024.10 - 2025.06*, Algorithm Intern (Human Video Understanding), Zhibaiyuan Tech Inc, Beijing, China
 - *2025.09 - 2026.04*, Algorithm Intern (Human Video Generation), Amap (Alibaba), Beijing, China
 
