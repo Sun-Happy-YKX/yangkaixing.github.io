@@ -16,7 +16,7 @@
 #   code_url:
 
 - title: "TokenDance: Token-to-Token Music-to-Dance Generation with Bidirectional Mamba"
-  authors: "Ziyue Yang, Kaixing Yang, <strong>Xulong Tang</strong>"
+  authors: "Ziyue Yang, <strong>Kaixing Yang</strong>, Xulong Tang"
   venue: "CVPR Workshop"
   year: 2026
   image: "/images/publications/CVPRW 2026.png"
@@ -25,7 +25,7 @@
   code_url:
 
 - title: "MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation"
-  authors: "Kaixing Yang&#42;, <strong>Xulong Tang</strong>&#42;, Ziqiao Peng, Yuxuan Hu, Jun He, Hongyan Liu"
+  authors: "<strong>Kaixing Yang</strong>, Xulong Tang, Ziqiao Peng, Yuxuan Hu, Jun He, Hongyan Liu"
   venue: "NeurIPS"
   year: 2025
   image: "/images/publications/NeurIPS 2025.png"
@@ -34,7 +34,7 @@
   code_url: "https://github.com/XulongT/MEGADance"
 
 - title: "CoheDancers: Interactive Group Dance Generation via Music-Driven Coherence Decomposition"
-  authors: "Kaixing Yang&#42;, <strong>Xulong Tang</strong>&#42;, Haoyu Wu, Qinliang Xue, Biao Qin, Hongyan Liu, Zhaoxin Fan"
+  authors: "<strong>Kaixing Yang</strong>, Xulong Tang, Haoyu Wu, Qinliang Xue, Biao Qin, Hongyan Liu, Zhaoxin Fan"
   venue: "ACM MM"
   year: 2025
   image: "/images/publications/ACM MM 2025.png"
@@ -43,7 +43,7 @@
   code_url: "https://github.com/XulongT/CoheDancers"
 
 - title: "CoDancers: Music-Driven Coherent Group Dance Generation with Choreographic Unit"
-  authors: "Kaixing Yang&#42;, <strong>Xulong Tang</strong>&#42;, Ran Diao, Hongyan Liu, Jun He, Zhaoxin Fan"
+  authors: "<strong>Kaixing Yang</strong>, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, Zhaoxin Fan"
   venue: "ICMR"
   year: 2024
   image: "/images/publications/ICMR 2024 1.png"
@@ -52,7 +52,7 @@
   code_url: "https://github.com/XulongT/CoDancers"
 
 - title: "BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval"
-  authors: "Kaixing Yang, Xukun Zhou, <strong>Xulong Tang</strong>, Ran Diao, Hongyan Liu, Jun He, Zhaoxin Fan"
+  authors: "<strong>Kaixing Yang</strong>, Xukun Zhou, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, Zhaoxin Fan"
   venue: "ICMR"
   year: 2024
   image: "/images/publications/ICMR 2024 2.png"

@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "XULONG TANG / Personal Homepage"
+title                    : "Kaixing Yang / Personal Homepage"
 description              : "Generative AI, Digital Human, Human-Computer Interaction"
-repository               : "XulongT/xulongt.github.io"
+repository               : "Sun-Happy-YKX/yangkaixing.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kaixing Yang (Mark)"
   avatar           : "images/profile.png"
-  bio              : "Renmin University of China"
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : 
