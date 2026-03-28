@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "XULONG TANG / Personal Homepage"
-description              : "AI for Art, AI for Life"
+description              : "Generative AI, Digital Human, Human-Computer Interaction"
 repository               : "XulongT/xulongt.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xulong Tang (Ben)"
+  name             : "Kaixing Yang (Mark)"
   avatar           : "images/profile.png"
-  bio              : "The University of Texas at Dallas"
-  location         : "Plano, Texas"
+  bio              : "Renmin University of China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=D8zZvBUAAAAJ&hl"
-  email            : "xulong.tang@utdallas.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=GDJJRiUAAAAJ&hl=zh-CN&oi=ao"
+  email            : "yangkaixing@ruc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XulongT"
+  github           : "https://github.com/XulongT"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "xulong-tang-883318272"
+  linkedin         : 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0005-0857-1056"
+  orcid            : "https://orcid.org/0000-0002-3879-7225"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
