@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kaixing Yang (Mark)"
+title: "Kaixing Yang"
 excerpt: ""
 author_profile: true
 redirect_from: 
