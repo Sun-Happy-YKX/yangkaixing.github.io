@@ -64,7 +64,6 @@ This section is rendered by /_includes/publications.html.
 
 **Reviewer**
 - *CVPR* &nbsp; (2025–2026)
-- *NeurIPS* &nbsp; (2026)
 - *ECCV* &nbsp; (2026)
 - *IEEE Transactions on Computers* &nbsp; (2024–2025)
 - *IEEE Virtual Reality* &nbsp; (2024–2025)
