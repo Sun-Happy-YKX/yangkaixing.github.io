@@ -33,7 +33,6 @@ I am a fourth-year PhD student at Renmin University of China (RUC). My research 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 <span style="color: #1e90ff;">MACE-Dance</span> was conditionally accepted at SIGGRAPH 2026.
 - *2026.03*: &nbsp;🎉🎉 <span style="color: #1e90ff;">TokenDance</span> paper was accepted at CVPR Workshop 2026.
 - *2025.09*: &nbsp;🎉🎉 <span style="color: #1e90ff;">MEGADance</span> was accepted at NeurIPS 2025.
 - *2025.07*: &nbsp;🎉🎉 <span style="color: #1e90ff;">CoheDancers</span> was accepted at ACM Multimedia 2025.
