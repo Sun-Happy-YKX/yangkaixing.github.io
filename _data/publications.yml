@@ -15,6 +15,33 @@
 #   project_url: "https://xulongt.github.io/ARDance26/"
 #   code_url:
 
+- title: "OmniDance: Multimodal Driven Dance Video Generation with Large-scale Internet Data"
+  authors: "<strong>Kaixing Yang</strong>, Jiashu Zhu, Xulong Tang, Ziqiao Peng, Xiangyue Zhang, Chubin Chen, Puwei Wang, Jiahong Wu, Xiangxiang Chu, Hongyan Liu, Jun He"
+  venue: "ECCV"
+  year: 2026
+  image: "/images/publications/ECCV 2026 1.png"
+  paper_url:
+  project_url: "https://sun-happy-ykx.github.io/OmniDance/"
+  code_url:
+
+- title: "FlowerDance: MeanFlow for Efficient and Refined 3D Dance Generation"
+  authors: "<strong>Kaixing Yang</strong>, Xulong Tang, Ziqiao Peng, Xiangyue Zhang, Chubin Chen, Xukun Zhou, Puwei Wang, Hongyan Liu, Jun He"
+  venue: "ECCV"
+  year: 2026
+  image: "/images/publications/ECCV 2026 2.png"
+  paper_url:
+  project_url: "https://sun-happy-ykx.github.io/FlowerDance/"
+  code_url:
+
+- title: "MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation"
+  authors: "<strong>Kaixing Yang</strong>, Jiashu Zhu, Xulong Tang, Ziqiao Peng, Xiangyue Zhang, Puwei Wang, Jiahong Wu, Xiangxiang Chu, Hongyan Liu, Jun He"
+  venue: "SIGGRAPH"
+  year: 2026
+  image: "/images/publications/SIGGRAPH 2026.png"
+  paper_url: "https://arxiv.org/abs/2512.18181"
+  project_url: "https://sun-happy-ykx.github.io/MACE-Dance/"
+  code_url:
+
 - title: "TokenDance: Token-to-Token Music-to-Dance Generation with Bidirectional Mamba"
   authors: "Ziyue Yang, <strong>Kaixing Yang</strong>, Xulong Tang"
   venue: "CVPR Workshop"

@@ -30,9 +30,12 @@ I am a fourth-year PhD student at Renmin University of China (RUC). My research 
 - *2022.10 - 2024.01*, Algorithm Intern (3D Digital Human), PSYCHE Tech Inc, Beijing, China
 - *2024.10 - 2025.06*, Algorithm Intern (Human Video Understanding), Zhibaiyuan Tech Inc, Beijing, China
 - *2025.09 - 2026.04*, Algorithm Intern (Human Video Generation), Amap (Alibaba), Beijing, China
+- *2026.05 - present*, Algorithm Intern (Digital Human Generation), Tencent IEG (Qingyun Program), Shenzhen, China
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 <span style="color: #1e90ff;">FlowerDance</span> and <span style="color: #1e90ff;">OmniDance</span> were accepted at ECCV 2026.
+- *2026.04*: &nbsp;🎉🎉 <span style="color: #1e90ff;">MACE-Dance</span> was accepted at SIGGRAPH 2026.
 - *2026.03*: &nbsp;🎉🎉 <span style="color: #1e90ff;">TokenDance</span> paper was accepted at CVPR Workshop 2026.
 - *2025.09*: &nbsp;🎉🎉 <span style="color: #1e90ff;">MEGADance</span> was accepted at NeurIPS 2025.
 - *2025.07*: &nbsp;🎉🎉 <span style="color: #1e90ff;">CoheDancers</span> was accepted at ACM Multimedia 2025.
@@ -40,8 +43,6 @@ I am a fourth-year PhD student at Renmin University of China (RUC). My research 
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
-
-\* denotes equal contribution.
 
 {% comment %}
 Maintain publications in /_data/publications.yml.
