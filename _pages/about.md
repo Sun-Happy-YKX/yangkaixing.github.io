@@ -17,10 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🐲 About Kaixing
-Hello! I'm Kaixing Yang, you can call me Mark!
-I am a fourth-year PhD student at Renmin University of China (RUC). My research is primarily advised by **Professor [Jun He](http://info.ruc.edu.cn/jsky/rtjs/d696a551fefc4b0ab6f90e02b01f3529.htm)** from Renmin University of China  and  **Professor [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1189/32080.htm)** from Tsinghua University. My research interests include Digital Human, Video Generation, and 3D Motion Generation.
-
-I am a PhD candidate graduating in 2027 and currently seeking opportunities in industry. Please feel free to contact me by email.
+Hello! I’m Kaixing Yang, you can call me Mark! I am a fourth-year PhD student at Renmin University of China (RUC). My research is primarily advised by **Professor** [**Jun He**](http://info.ruc.edu.cn/jsky/rtjs/d696a551fefc4b0ab6f90e02b01f3529.htm) from Renmin University of China and **Professor** [**Hongyan Liu**](https://www.sem.tsinghua.edu.cn/info/1189/32080.htm) from Tsinghua University. My research interests include Digital Human, Video Generation, and 3D Motion Generation. 我将于27年博士毕业，并在寻找工业界工作机会，Please feel free to contact me！
 
 <span class='anchor' id='education'></span>
 # 📖 Education
