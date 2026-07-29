@@ -3,22 +3,21 @@
 # `authors` and `note` can contain simple HTML such as <strong>...</strong>.
 
 - title: "CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive System"
-  authors: "Xulong Tang<sup>*</sup>, <strong>Kaixing Yang<sup>*</sup></strong>, Xiaohu Guo, Prabhakaran Balakrishnan, Rawan Alghofaili"
+  authors: "Xulong Tang, <strong>Kaixing Yang<sup>*</sup></strong>, Xiaohu Guo, Prabhakaran Balakrishnan, Rawan Alghofaili"
   venue: "SIGGRAPH Asia"
   year: 2026
-  image: "/images/publications/CustomDance.svg"
-  note: "<sup>*</sup> Equal contribution. <strong>Kaixing Yang</strong> is the Project Leader."
+  image: "/images/publications/CustomDance.png"
+  note: "<sup>*</sup> Project Leader & Co-First Author."
   selected: true
   paper_url:
   project_url:
   code_url:
 
 - title: "StreamTalk: Streaming Co-Speech Gesture Generation with Key-Pose Anchoring"
-  authors: "Xiangyue Zhang<sup>*</sup>, Jianfang Li<sup>*</sup>, Jiaxu Zhang, <strong>Kaixing Yang</strong>, Steven Hoi"
+  authors: "Xiangyue Zhang, Jianfang Li, Jiaxu Zhang, <strong>Kaixing Yang</strong>, Steven Hoi"
   venue: "ECCV"
   year: 2026
-  image: "https://xiangyuezhang.com/assets/img/paper/StreamTalk/teaser.png"
-  note: "<sup>*</sup> Equal contribution."
+  image: "/images/publications/StreamTalk.png"
   selected: true
   paper_url:
   project_url: "https://xiangyuezhang.com/StreamTalk/"
@@ -68,6 +67,18 @@
   authors: "Ziyue Yang, <strong>Kaixing Yang</strong>, Xulong Tang"
   venue: "CVPR Workshop"
   year: 2026
+
+- title: "PersonaGesture: Single-Reference Co-Speech Gesture Personalization for Unseen Speakers"
+  authors: "Xiangyue Zhang, Yiyi Cai, Kunhang Li, <strong>Kaixing Yang</strong>, You Zhou, Zhengqing Li, Xuangeng Chu, Jiaxu Zhang, Haiyang Liu"
+  venue: "arXiv"
+  year: 2026
+  paper_url: "https://arxiv.org/abs/2605.06064"
+
+- title: "BiTDiff: Fine-Grained 3D Conducting Motion Generation via BiMamba-Transformer Diffusion"
+  authors: "Tianzhi Jia, <strong>Kaixing Yang</strong>, Xiaole Yang, Xulong Tang, Ke Qiu, Shikui Wei, Yao Zhao"
+  venue: "arXiv"
+  year: 2026
+  paper_url: "https://arxiv.org/abs/2604.04395"
 
 - title: "CoheDancers: Interactive Group Dance Generation via Music-Driven Coherence Decomposition"
   authors: "<strong>Kaixing Yang</strong>, Xulong Tang, Haoyu Wu, Qinliang Xue, Biao Qin, Hongyan Liu, Zhaoxin Fan"

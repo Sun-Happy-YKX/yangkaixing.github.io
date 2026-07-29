@@ -27,10 +27,10 @@ I am a fourth-year PhD student at Renmin University of China (RUC). My research 
 
 <span class='anchor' id='internships'></span>
 # 💻 Internships
-- *2022.10 - 2024.01*, Algorithm Intern (3D Digital Human), PSYCHE Tech Inc, Beijing, China
-- *2024.10 - 2025.06*, Algorithm Intern (Human Video Understanding), Zhibaiyuan Tech Inc, Beijing, China
-- *2025.09 - 2026.04*, Algorithm Intern (Human Video Generation), Amap Alibaba, Beijing, China
 - *2026.05 - present*, Algorithm Intern (Digital Human Generation), Tencent IEG (Qingyun Program), Shenzhen, China
+- *2025.09 - 2026.04*, Algorithm Intern (Human Video Generation), Amap Alibaba, Beijing, China
+- *2024.10 - 2025.06*, Algorithm Intern (Human Video Understanding), Zhibaiyuan Tech Inc, Beijing, China
+- *2022.10 - 2024.01*, Algorithm Intern (3D Digital Human), PSYCHE Tech Inc, Beijing, China
 
 <span class='anchor' id='news'></span>
 # 🔥 News

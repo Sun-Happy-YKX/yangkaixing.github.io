@@ -61,7 +61,13 @@
           {% for publication in other_publications %}
             {% capture authors_html %}{{ publication.authors | markdownify }}{% endcapture %}
             <li class="other-publication">
-              <h3 class="other-publication-title">{{ publication.title }}</h3>
+              <h3 class="other-publication-title">
+                {% if publication.paper_url %}
+                  <a href="{{ publication.paper_url }}" target="_blank" rel="noopener">{{ publication.title }}</a>
+                {% else %}
+                  {{ publication.title }}
+                {% endif %}
+              </h3>
               <p class="other-publication-authors">{{ authors_html | strip | replace: "<p>", "" | replace: "</p>", "" }}</p>
               <p class="other-publication-venue">{{ publication.venue }} {{ publication.year }}</p>
             </li>
