@@ -27,8 +27,10 @@
     border-bottom: 1px solid $border-color;
   }
 
-  .paper-box + .paper-box {
-    margin-top: 1.25rem;
+  .paper-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
   }
 
   .paper-box-image {

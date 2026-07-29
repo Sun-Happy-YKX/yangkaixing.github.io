@@ -8,6 +8,7 @@
       <section class="paper-group">
         <h2 class="paper-group-title">Selected Publications</h2>
 
+        <div class="paper-list">
         {% for publication in selected_publications %}
           {% assign image_src = publication.image | default: "/images/publications/publication-placeholder-motion.svg" %}
           {% unless image_src contains "://" %}
@@ -51,6 +52,7 @@
             </div>
           </article>
         {% endfor %}
+        </div>
       </section>
     {% endif %}
 
