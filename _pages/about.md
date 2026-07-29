@@ -20,6 +20,8 @@ redirect_from:
 Hello! I'm Kaixing Yang, you can call me Mark!
 I am a fourth-year PhD student at Renmin University of China (RUC). My research is primarily advised by **Professor [Jun He](http://info.ruc.edu.cn/jsky/rtjs/d696a551fefc4b0ab6f90e02b01f3529.htm)** from Renmin University of China  and  **Professor [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1189/32080.htm)** from Tsinghua University. My research interests include Digital Human, Video Generation, and 3D Motion Generation.
 
+I am a PhD candidate graduating in 2027 and currently seeking opportunities in industry. Please feel free to contact me by email.
+
 <span class='anchor' id='education'></span>
 # 📖 Education
 - *2022.09 - present*, PhD in Data Science and Engineering, Renmin University of China
@@ -41,7 +43,8 @@ I am a fourth-year PhD student at Renmin University of China (RUC). My research 
 - *2026.03*: &nbsp;🎉🎉 <span style="color: #1e90ff;">TokenDance</span> paper was accepted at CVPR Workshop 2026.
 - *2025.09*: &nbsp;🎉🎉 <span style="color: #1e90ff;">MEGADance</span> was accepted at NeurIPS 2025.
 - *2025.07*: &nbsp;🎉🎉 <span style="color: #1e90ff;">CoheDancers</span> was accepted at ACM Multimedia 2025.
-- *2024.06*: &nbsp;🎉🎉 <span style="color: #1e90ff;">BeatDance,CoDancers</span> were accepted at ICMR 2024.
+- *2024.04*: &nbsp;🎉🎉 <span style="color: #1e90ff;">BeatDance</span> was selected for an Oral Presentation at ICMR 2024.
+- *2024.04*: &nbsp;🎉🎉 <span style="color: #1e90ff;">BeatDance</span> and <span style="color: #1e90ff;">CoDancers</span> were accepted at ICMR 2024.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications

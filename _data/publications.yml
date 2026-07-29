@@ -25,7 +25,7 @@
 
 - title: "OmniDance: Multimodal Driven Dance Video Generation with Large-scale Internet Data"
   authors: "<strong>Kaixing Yang</strong>, Jiashu Zhu, Xulong Tang, Ziqiao Peng, Xiangyue Zhang, Chubin Chen, Puwei Wang, Jiahong Wu, Xiangxiang Chu, Hongyan Liu, Jun He"
-  venue: "ECCV"
+  venue: "ECCV Oral"
   year: 2026
   image: "/images/publications/ECCV 2026 1.png"
   selected: true
@@ -67,6 +67,7 @@
   authors: "Ziyue Yang, <strong>Kaixing Yang</strong>, Xulong Tang"
   venue: "CVPR Workshop"
   year: 2026
+  paper_url: "https://openaccess.thecvf.com/content/CVPR2026W/HuMoGen/papers/Yang_TokenDance_Token-to-Token_Music-to-Dance_Generation_with_Bidirectional_Mamba_CVPRW_2026_paper.pdf"
 
 - title: "PersonaGesture: Single-Reference Co-Speech Gesture Personalization for Unseen Speakers"
   authors: "Xiangyue Zhang, Yiyi Cai, Kunhang Li, <strong>Kaixing Yang</strong>, You Zhou, Zhengqing Li, Xuangeng Chu, Jiaxu Zhang, Haiyang Liu"
@@ -84,13 +85,16 @@
   authors: "<strong>Kaixing Yang</strong>, Xulong Tang, Haoyu Wu, Qinliang Xue, Biao Qin, Hongyan Liu, Zhaoxin Fan"
   venue: "ACM MM"
   year: 2025
+  paper_url: "https://arxiv.org/abs/2412.19123"
 
 - title: "CoDancers: Music-Driven Coherent Group Dance Generation with Choreographic Unit"
   authors: "<strong>Kaixing Yang</strong>, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, Zhaoxin Fan"
   venue: "ICMR"
   year: 2024
+  paper_url: "https://doi.org/10.1145/3652583.3657998"
 
 - title: "BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval"
   authors: "<strong>Kaixing Yang</strong>, Xukun Zhou, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, Zhaoxin Fan"
   venue: "ICMR"
   year: 2024
+  paper_url: "https://doi.org/10.1145/3652583.3658045"
