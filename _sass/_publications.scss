@@ -200,9 +200,10 @@
       display: grid;
       grid-template-columns: minmax(190px, 32%) minmax(0, 1fr);
       gap: 1.25rem;
-      height: 150px;
+      height: auto;
       min-height: 0;
       align-items: stretch;
+      padding: 1rem 0;
     }
 
     .paper-box-image {
