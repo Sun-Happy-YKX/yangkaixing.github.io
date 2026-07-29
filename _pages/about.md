@@ -34,7 +34,9 @@ I am a fourth-year PhD student at Renmin University of China (RUC). My research 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 <span style="color: #1e90ff;">FlowerDance</span> and <span style="color: #1e90ff;">OmniDance</span> were accepted at ECCV 2026.
+- *2026.07*: &nbsp;🎉🎉 <span style="color: #1e90ff;">OmniDance</span> was selected for an Oral Presentation at ECCV 2026.
+- *2026.07*: &nbsp;🎉🎉 <span style="color: #1e90ff;">CustomDance</span> was accepted at SIGGRAPH Asia 2026.
+- *2026.06*: &nbsp;🎉🎉 <span style="color: #1e90ff;">FlowerDance</span>, <span style="color: #1e90ff;">OmniDance</span>, and <span style="color: #1e90ff;">StreamTalk</span> were accepted at ECCV 2026.
 - *2026.04*: &nbsp;🎉🎉 <span style="color: #1e90ff;">MACE-Dance</span> was accepted at SIGGRAPH 2026.
 - *2026.03*: &nbsp;🎉🎉 <span style="color: #1e90ff;">TokenDance</span> paper was accepted at CVPR Workshop 2026.
 - *2025.09*: &nbsp;🎉🎉 <span style="color: #1e90ff;">MEGADance</span> was accepted at NeurIPS 2025.
@@ -49,5 +51,3 @@ Maintain publications in /_data/publications.yml.
 This section is rendered by /_includes/publications.html.
 {% endcomment %}
 {% include publications.html %}
-
-

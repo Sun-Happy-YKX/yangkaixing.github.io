@@ -1,51 +1,73 @@
 {% assign publications = include.publications | default: site.data.publications %}
 {% if publications and publications.size > 0 %}
+  {% assign selected_publications = publications | where: "selected", true %}
+  {% assign other_publications = publications | where_exp: "publication", "publication.selected != true" %}
+
   <div class="publications-section">
-    {% for publication in publications %}
-      {% assign image_src = publication.image | default: "/images/publications/publication-placeholder-motion.svg" %}
-      {% unless image_src contains "://" %}
-        {% assign image_src = image_src | relative_url %}
-      {% endunless %}
+    {% if selected_publications.size > 0 %}
+      <section class="paper-group">
+        <h2 class="paper-group-title">Selected Publications</h2>
 
-      {% assign badge_text = publication.venue | default: "" | strip %}
-      {% if publication.year %}
-        {% if badge_text != "" %}
-          {% assign badge_text = badge_text | append: " " %}
-        {% endif %}
-        {% assign badge_text = badge_text | append: publication.year %}
-      {% endif %}
-      {% capture authors_html %}{{ publication.authors | markdownify }}{% endcapture %}
+        {% for publication in selected_publications %}
+          {% assign image_src = publication.image | default: "/images/publications/publication-placeholder-motion.svg" %}
+          {% unless image_src contains "://" %}
+            {% assign image_src = image_src | relative_url %}
+          {% endunless %}
 
-      <article class="paper-box">
-        <div class="paper-box-image">
-          <div class="paper-thumb">
+          {% assign badge_text = publication.venue | default: "" | strip %}
+          {% if publication.year %}
             {% if badge_text != "" %}
-              <span class="badge">{{ badge_text }}</span>
+              {% assign badge_text = badge_text | append: " " %}
             {% endif %}
-            <img src="{{ image_src }}" alt="{{ publication.title | escape }} preview" loading="lazy">
-          </div>
-        </div>
-
-        <div class="paper-box-text">
-          <h3 class="paper-box-title">{{ publication.title }}</h3>
-
-          {% if publication.paper_url or publication.project_url or publication.code_url %}
-            <div class="paper-box-links">
-              {% if publication.paper_url %}
-                <a href="{{ publication.paper_url }}" target="_blank" rel="noopener">Paper</a>
-              {% endif %}
-              {% if publication.project_url %}
-                <a href="{{ publication.project_url }}" target="_blank" rel="noopener">Project</a>
-              {% endif %}
-              {% if publication.code_url %}
-                <a href="{{ publication.code_url }}" target="_blank" rel="noopener">Code</a>
-              {% endif %}
-            </div>
+            {% assign badge_text = badge_text | append: publication.year %}
           {% endif %}
 
-          <p class="paper-box-authors">{{ authors_html | strip | replace: "<p>", "" | replace: "</p>", "" }}</p>
-        </div>
-      </article>
-    {% endfor %}
+          {% capture authors_html %}{{ publication.authors | markdownify }}{% endcapture %}
+          {% capture note_html %}{{ publication.note | markdownify }}{% endcapture %}
+
+          <article class="paper-box">
+            <div class="paper-box-image">
+              <div class="paper-thumb">
+                {% if badge_text != "" %}<span class="badge">{{ badge_text }}</span>{% endif %}
+                <img src="{{ image_src }}" alt="{{ publication.title | escape }} preview" loading="lazy">
+              </div>
+            </div>
+
+            <div class="paper-box-text">
+              <h3 class="paper-box-title">{{ publication.title }}</h3>
+
+              {% if publication.paper_url or publication.project_url or publication.code_url %}
+                <div class="paper-box-links">
+                  {% if publication.paper_url %}<a href="{{ publication.paper_url }}" target="_blank" rel="noopener">Paper</a>{% endif %}
+                  {% if publication.project_url %}<a href="{{ publication.project_url }}" target="_blank" rel="noopener">Project</a>{% endif %}
+                  {% if publication.code_url %}<a href="{{ publication.code_url }}" target="_blank" rel="noopener">Code</a>{% endif %}
+                </div>
+              {% endif %}
+
+              <p class="paper-box-authors">{{ authors_html | strip | replace: "<p>", "" | replace: "</p>", "" }}</p>
+              {% if publication.note %}
+                <p class="paper-box-note">{{ note_html | strip | replace: "<p>", "" | replace: "</p>", "" }}</p>
+              {% endif %}
+            </div>
+          </article>
+        {% endfor %}
+      </section>
+    {% endif %}
+
+    {% if other_publications.size > 0 %}
+      <section class="paper-group paper-group-others">
+        <h2 class="paper-group-title">Others</h2>
+        <ul class="other-publications">
+          {% for publication in other_publications %}
+            {% capture authors_html %}{{ publication.authors | markdownify }}{% endcapture %}
+            <li class="other-publication">
+              <h3 class="other-publication-title">{{ publication.title }}</h3>
+              <p class="other-publication-authors">{{ authors_html | strip | replace: "<p>", "" | replace: "</p>", "" }}</p>
+              <p class="other-publication-venue">{{ publication.venue }} {{ publication.year }}</p>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
   </div>
 {% endif %}

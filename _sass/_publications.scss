@@ -95,6 +95,13 @@
     color: $darker-gray;
   }
 
+  .paper-box-note {
+    margin: -0.25rem 0 0;
+    color: $gray;
+    font-size: 0.9em;
+    font-style: italic;
+  }
+
   .paper-box-meta {
     display: flex;
     flex-wrap: wrap;
@@ -143,6 +150,43 @@
 
   .paper-highlights li + li {
     margin-top: 0.25rem;
+  }
+
+  .paper-group-others {
+    margin-top: 2.25rem;
+  }
+
+  .other-publications {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .other-publication {
+    padding: 1rem 0;
+    border-bottom: 1px solid $border-color;
+  }
+
+  .other-publication-title {
+    margin: 0 0 0.35rem;
+    font-size: 1em;
+    line-height: 1.4;
+  }
+
+  .other-publication-authors,
+  .other-publication-venue {
+    margin: 0;
+    font-size: 0.92em;
+  }
+
+  .other-publication-authors {
+    color: $darker-gray;
+  }
+
+  .other-publication-venue {
+    margin-top: 0.2rem;
+    color: $gray;
+    font-weight: 600;
   }
 
   @include breakpoint($medium) {

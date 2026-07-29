@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 230" role="img" aria-labelledby="title desc">
+  <title id="title">CustomDance paper preview</title>
+  <desc id="desc">A coarse-to-fine human-centered choreography workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102a56"/>
+      <stop offset="0.55" stop-color="#2359a8"/>
+      <stop offset="1" stop-color="#7b4ecb"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5ad9ff"/>
+      <stop offset="1" stop-color="#cda7ff"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="720" height="230" rx="18" fill="url(#bg)"/>
+  <circle cx="618" cy="54" r="66" fill="#79ddff" opacity=".12"/>
+  <circle cx="680" cy="202" r="94" fill="#d7a8ff" opacity=".12"/>
+  <text x="42" y="65" fill="#fff" font-family="Arial, sans-serif" font-size="31" font-weight="700">CustomDance</text>
+  <text x="42" y="94" fill="#dceaff" font-family="Arial, sans-serif" font-size="15">Customized 3D Dance Generation</text>
+  <text x="42" y="118" fill="#b9d4ff" font-family="Arial, sans-serif" font-size="13">Coarse-to-Fine · Human-Centered · Interactive</text>
+  <g transform="translate(43 154)" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">
+    <g><circle cx="30" cy="24" r="22" fill="#173f78" stroke="#67dcff" stroke-width="2"/><text x="30" y="28" fill="#fff">Intent</text></g>
+    <path d="M54 24h54" stroke="url(#accent)" stroke-width="3" marker-end="url(#arrow)"/>
+    <g transform="translate(108)"><circle cx="30" cy="24" r="22" fill="#274c91" stroke="#80c9ff" stroke-width="2"/><text x="30" y="28" fill="#fff">Draft</text></g>
+    <path d="M162 24h54" stroke="url(#accent)" stroke-width="3"/>
+    <g transform="translate(216)"><circle cx="30" cy="24" r="22" fill="#55459e" stroke="#b5b5ff" stroke-width="2"/><text x="30" y="28" fill="#fff">Refine</text></g>
+    <path d="M270 24h54" stroke="url(#accent)" stroke-width="3"/>
+    <g transform="translate(324)"><circle cx="30" cy="24" r="22" fill="#7245aa" stroke="#dfbdff" stroke-width="2"/><text x="30" y="28" fill="#fff">Dance</text></g>
+  </g>
+  <g transform="translate(540 62)" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" filter="url(#glow)">
+    <circle cx="40" cy="15" r="11" fill="#fff" stroke="none"/>
+    <path d="M40 31l-7 48m7-35l34 22m-39-15L5 75m28 4L13 125m20-46l34 44"/>
+  </g>
+</svg>
