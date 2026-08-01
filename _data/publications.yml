@@ -27,7 +27,7 @@
   authors: "<strong>Kaixing Yang</strong>, Jiashu Zhu, Xulong Tang, Ziqiao Peng, Xiangyue Zhang, Chubin Chen, Puwei Wang, Jiahong Wu, Xiangxiang Chu, Hongyan Liu, Jun He"
   venue: "ECCV Oral"
   year: 2026
-  image: "/images/publications/ECCV 2026 1.png"
+  image: "/images/publications/OmniDance.png"
   selected: true
   paper_url: "https://arxiv.org/abs/2606.30019"
   project_url: "https://sun-happy-ykx.github.io/OmniDance/"
@@ -37,7 +37,7 @@
   authors: "<strong>Kaixing Yang</strong>, Xulong Tang, Ziqiao Peng, Xiangyue Zhang, Puwei Wang, Jun He, Hongyan Liu"
   venue: "ECCV"
   year: 2026
-  image: "/images/publications/ECCV 2026 2.png"
+  image: "/images/publications/FlowerDance.png"
   selected: true
   paper_url: "https://arxiv.org/abs/2511.21029"
   project_url: "https://sun-happy-ykx.github.io/FlowerDance/"
