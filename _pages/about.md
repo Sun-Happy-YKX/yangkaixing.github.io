@@ -26,14 +26,14 @@ Hello! I’m Kaixing Yang, you can call me Mark! I am a fourth-year PhD student 
 
 <span class='anchor' id='internships'></span>
 # 💻 Internships
-- *2026.05 - present*, Algorithm Intern (Digital Human Generation), Tencent IEG (Qingyun Program), Shenzhen, China
+- *2026.05 - present*, Algorithm Intern (Digital Human Generation), Tencent IEG (青云计划), Shenzhen, China
 - *2025.09 - 2026.04*, Algorithm Intern (Human Video Generation), Amap Alibaba, Beijing, China
 - *2024.10 - 2025.06*, Algorithm Intern (Human Video Understanding), Zhibaiyuan Tech Inc, Beijing, China
 - *2022.10 - 2024.01*, Algorithm Intern (3D Digital Human), PSYCHE Tech Inc, Beijing, China
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 <span style="color: #1e90ff;">CustomDance</span> was interviewed by [Voyage Dallas Magazine](https://voyagedallas.com/).
+- *2026.08*: &nbsp;🎉🎉 <span style="color: #1e90ff;">CustomDance</span> was interviewed by *Voyage Dallas Magazine*.
 - *2026.07*: &nbsp;🎉🎉 <span style="color: #1e90ff;">OmniDance</span> was selected for an Oral Presentation at ECCV 2026.
 - *2026.07*: &nbsp;🎉🎉 <span style="color: #1e90ff;">CustomDance</span> was accepted at SIGGRAPH Asia 2026.
 - *2026.06*: &nbsp;🎉🎉 <span style="color: #1e90ff;">FlowerDance</span>, <span style="color: #1e90ff;">OmniDance</span>, and <span style="color: #1e90ff;">StreamTalk</span> were accepted at ECCV 2026.

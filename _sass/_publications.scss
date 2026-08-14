@@ -204,16 +204,16 @@
   @include breakpoint($medium) {
     .paper-box {
       display: grid;
-      grid-template-columns: minmax(190px, 32%) minmax(0, 1fr);
+      grid-template-columns: minmax(180px, 24%) minmax(0, 1fr);
       gap: 1.25rem;
       height: auto;
       min-height: 0;
-      align-items: stretch;
+      align-items: start;
       padding: 1rem 0;
     }
 
     .paper-box-image {
-      height: 150px;
+      height: 135px;
       max-width: none;
       justify-content: flex-start;
     }
@@ -221,17 +221,18 @@
     .paper-thumb {
       max-width: none;
       min-height: 0;
-      height: 150px;
+      height: 135px;
       aspect-ratio: auto;
     }
 
     .paper-box-text {
       display: flex;
-      height: 150px;
+      height: auto;
+      min-height: 135px;
       min-width: 0;
       flex-direction: column;
       justify-content: center;
-      overflow: hidden;
+      overflow: visible;
     }
 
     .paper-box-title,
@@ -246,8 +247,19 @@
     }
 
     .paper-box-authors {
+      display: block;
       margin-bottom: 0;
-      -webkit-line-clamp: 2;
+      overflow: visible;
+      font-size: 0.9em;
+      line-height: 1.35;
+      -webkit-line-clamp: unset;
+    }
+
+  }
+
+  @include breakpoint($large) {
+    .paper-box-authors {
+      white-space: nowrap;
     }
   }
 }
