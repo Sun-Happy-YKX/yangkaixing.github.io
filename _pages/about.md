@@ -33,6 +33,7 @@ Hello! I’m Kaixing Yang, you can call me Mark! I am a fourth-year PhD student 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 <span style="color: #1e90ff;">MATHDance</span> was accepted at ACM MM 2026 Workshop.
 - *2026.08*: &nbsp;🎉🎉 <span style="color: #1e90ff;">CustomDance</span> was interviewed by *Voyage Dallas Magazine*.
 - *2026.07*: &nbsp;🎉🎉 <span style="color: #1e90ff;">OmniDance</span> was selected for an Oral Presentation at ECCV 2026.
 - *2026.07*: &nbsp;🎉🎉 <span style="color: #1e90ff;">CustomDance</span> was accepted at SIGGRAPH Asia 2026.

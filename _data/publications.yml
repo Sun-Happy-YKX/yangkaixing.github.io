@@ -63,6 +63,11 @@
   project_url: "https://sun-happy-ykx.github.io/MEGADance/"
   code_url: "https://github.com/XulongT/MEGADance"
 
+- title: "MATHDance: Mamba-Transformer Architecture with Uniform Tokenization for High-Quality 3D Dance Generation"
+  authors: "<strong>Kaixing Yang</strong>, Xulong Tang, Ziqiao Peng, Yuxuan Hu, Xiangyue Zhang, Puwei Wang, Hongyan Liu, Jun He, Zhaoxin Fan"
+  venue: "ACM MM 2026 Workshop"
+  paper_url: "https://arxiv.org/abs/2505.14222"
+
 - title: "TokenDance: Token-to-Token Music-to-Dance Generation with Bidirectional Mamba"
   authors: "Ziyue Yang, <strong>Kaixing Yang</strong>, Xulong Tang"
   venue: "CVPR Workshop"
